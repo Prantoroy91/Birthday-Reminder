@@ -73,6 +73,7 @@ Open a terminal in your project folder and run:
 3. Folder Setup:
 Make sure your folder structure matches this:
 	BirthdayReminder
+
 	/
 	│
 	├── server.js
